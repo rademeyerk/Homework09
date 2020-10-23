@@ -1,0 +1,16 @@
+Package: HW6Problems
+Title: HW6 Package
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Kara",
+           family = "Rademeuer",
+           role = c("aut", "cre"),
+           email = "rademeyerk@vcu.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Contains functions related to the Pythagorean Theorem and the trimmed mean.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1.9000
